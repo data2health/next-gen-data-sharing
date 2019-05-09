@@ -2,9 +2,8 @@
 
 # Leadership
 *Director: Chris Chute (Johns Hopkins University)
-
-*Co-Director: Peter Robinson (The Jackson Laboratory) 
-
+*Co-Director: Peter Robinson (The Jackson Laboratory)
+ 
 # Other Core Members
 Don't edit this - the RPPR generator populates this section
 
@@ -13,7 +12,7 @@ Don't edit this - the RPPR generator populates this section
 
 # Specific Aim
 
-Pull from proposal
+Aim 1: Harmonize the data ecosystem. An improved data ecosystem will enhance and extend existing work being performed on the NCATS Data Translator system, which integrates clinical and translational data at scale for mechanistic discovery, as well as other emergent systems such as the NIH Commons. We will apply our strengths and existing activities to make data FAIR-TLC: Findable, Accessible, Interoperable, and Reusable, as well as Traceable, Licensable, and Connected. We will assist contributors and users to develop and apply data standards, Common Data Elements (CDEs), and other commonly utilized data models such as FHIR and OHDSI. We will extend and supplement infrastructure, training, and collaborative environments to enable data to be shared openly, so that groups can collaborate on its harmonization based on specific needs or standards. The data ecosystem will provision CTSA-wide quality assurance reports and data quality assessment, as well as gold-standard datasets and synthetic clinical data sets. Fundamentally, we aim to develop an open-science ethos and unite CTSA community data sharing with broader global efforts.
 
 # Research Strategy
 Expose resources to the CTSA community.
