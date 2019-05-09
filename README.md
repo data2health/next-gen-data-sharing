@@ -29,3 +29,10 @@ See CD2H Labs for our latest demonstration platforms.
 ### Progress Report
 
 ### Current Projects
+* [Next Generation Data Sharing](https://github.com/data2health/next-gen-data-sharing)
+* [EHR2HPO](https://github.com/data2health/ehr2HPO.prj)
+* [Healthcare Open Terminology FHIR (hot-fhir)server](https://github.com/data2health/hot-fhir-projects)
+
+
+
+
