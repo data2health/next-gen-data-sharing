@@ -1,6 +1,8 @@
 # CD2H Next Generation Data Sharing and Analytics Core
 
 # Leadership
+Director: Chris Chute (Johns Hopkins University)
+Co-Director: Peter Robinson (The Jackson Laboratory) 
 
 # Other Core Members
 Don't edit this - the RPPR generator populates this section
