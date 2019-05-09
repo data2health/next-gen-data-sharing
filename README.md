@@ -2,7 +2,6 @@
 
 # Leadership
 *Director: Chris Chute (Johns Hopkins University)
-
 *Co-Director: Peter Robinson (The Jackson Laboratory) 
 
 # Other Core Members
