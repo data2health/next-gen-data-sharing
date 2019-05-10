@@ -32,7 +32,7 @@ See CD2H Labs for our latest demonstration platforms.
 ### Current Projects
 * [Data Harmonization](https://github.com/data2health/data-harmonization) ([RPPR](https://github.com/data2health/data-harmonization/blob/master/RPPR.md))
 * [EHR2HPO](https://github.com/data2health/ehr2HPO.prj) ([RPPR](https://github.com/data2health/ehr2HPO.prj/blob/master/RPPR.md))
-* [Healthcare Open Terminology FHIR (hot-fhir)server](https://github.com/data2health/hot-fhir-projects) ([RPPR](https://github.com/data2health/hot-fhir-projects/blob/master/RPPR.md))
+* [Healthcare Open Terminology FHIR (hot-fhir) server](https://github.com/data2health/hot-fhir-projects) ([RPPR](https://github.com/data2health/hot-fhir-projects/blob/master/RPPR.md))
 
 
 
