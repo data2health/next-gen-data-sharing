@@ -31,9 +31,11 @@ The feasibility is evident in the recent proliferation of high-performance FHIR 
 ### Summary of existing system and findings
 See CD2H Labs for our latest demonstration platforms.
 ## Approach
+CD2H does not intend to create yet another FHIR data or terminology server.  We will evaluate existing server offerings and establish their suitability as canonical hubs for federated query across CTSA.
 
+We also recognize that FHIR resources are deliberately underspecified.  We propose to leverage the ontology and binding work among the traditional data models, in concert with the US Core FHIR Implementation Guide.
 ### Progress Report
-
+Progress on each project is represented in milestones and their completion.
 ### Current Projects
 * [Data Harmonization](https://github.com/data2health/data-harmonization) ([RPPR](https://github.com/data2health/data-harmonization/blob/master/RPPR.md))
 * [EHR2HPO](https://github.com/data2health/ehr2HPO.prj) ([RPPR](https://github.com/data2health/ehr2HPO.prj/blob/master/RPPR.md))
