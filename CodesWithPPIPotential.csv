@@ -114,6 +114,7 @@ LOINC,45401-7,Postal code [Location]
 LOINC,45402-5,Language.primary
 LOINC,45403-3,Room number [Location]
 LOINC,45404-1,Marital status
+LOINC,45468-6,Health care durable power attorney
 LOINC,45965-1,Name Set
 LOINC,45966-9,Social Security and Medicare numbers
 LOINC,46098-0,Sex
