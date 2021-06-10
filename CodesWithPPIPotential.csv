@@ -1,0 +1,600 @@
+Vocabulary,Code,Description
+SNOMED,398166005,Performed
+SNOMED,371484003,Patient name
+SNOMED,405622006,Patient middle name
+SNOMED,408676007,Patient preferred name
+SNOMED,429086007,Patient alias name
+SNOMED,184095009,Patient forename
+SNOMED,184096005,Patient surname
+SNOMED,184097001,Patient address
+SNOMED,424966008,Patient email address
+SNOMED,397635003,Address
+SNOMED,408576002,Caregiver email address
+SNOMED,398095003,Guarantor address
+SNOMED,398099009,Street address
+SNOMED,408587005,Legal guardian - email address
+SNOMED,398198004,Guarantor phone number
+SNOMED,184102003,Patient postal code
+SNOMED,429524004,Patient facsimile number
+SNOMED,184103008,Patient telephone number
+SNOMED,428842005,Patient textphone number
+SNOMED,429697006,Patient home telephone number
+SNOMED,428481002,Patient mobile telephone number
+SNOMED,428843000,Patient work telephone number
+SNOMED,184099003,Date of birth
+SNOMED,399753006,Date of death
+SNOMED,398093005,Social Security Number
+SNOMED,398225001,Medical record number
+SNOMED,394571004,Employer
+LOINC,11294-6,Current employment Narrative - Reported
+LOINC,11295-3,Current employment - Reported
+LOINC,11296-1,ED clinical finding practitioner identifier
+LOINC,11298-7,ED consultant practitioner identifier
+LOINC,11312-6,ED procedure practitioner identifier
+LOINC,11318-3,Ambulance transport agency EMS system
+LOINC,11319-1,Ambulance transport unit [Identifier] EMS system
+LOINC,11340-7,History of Occupation Narrative
+LOINC,11341-5,History of Occupation
+LOINC,11503-0,Medical records
+LOINC,11513-9,Provider.signing [Identifier] Report
+LOINC,11530-3,Surgeon.assisting [Identifier]
+LOINC,11531-1,Surgeon.resident [Identifier]
+LOINC,11532-9,Surgeon.staff [Identifier]
+LOINC,11951-1,Fetal [Identifier] Identifier
+LOINC,15514-3,"Ambulance transport, Ordering practitioner identifier type"
+LOINC,18581-9,"Ambulance transport, Origination site Address"
+LOINC,18583-5,"Ambulance transport, Destination site Address"
+LOINC,18694-0,ED consultant practitioner name
+LOINC,18700-5,ED practitioner name
+LOINC,18705-4,ED referring practitioner name
+LOINC,18730-2,"Deprecated Psychiatric rehabilitation treatment plan, Author ID Identifier"
+LOINC,18770-8,Dictating practitioner name
+LOINC,18771-6,Provider signing name
+LOINC,18772-4,Surgeon.resident name
+LOINC,18773-2,Surgeon.staff name
+LOINC,19111-4,Mother's hospital number
+LOINC,19132-0,Mother's name
+LOINC,21842-0,Birthplace
+LOINC,21851-1,Address at cancer diagnosis
+LOINC,21866-9,Patient ID.hospital
+LOINC,22018-6,Military patient number
+LOINC,22019-4,Death certificate number
+LOINC,22020-2,Maiden name
+LOINC,22021-0,Institution referred from Cancer registry
+LOINC,22022-8,Institution referred to Cancer registry
+LOINC,22023-6,Last follow-up hospital [Identifier] Cancer registry
+LOINC,22024-4,Following registry [Identifier] Cancer registry
+LOINC,22025-1,Physician managing [Identifier]
+LOINC,22026-9,Physician follow up [Identifier]
+LOINC,22027-7,Surgeon primary [Identifier]
+LOINC,22028-5,Physician [Identifier]
+LOINC,30947-6,Date form completed
+LOINC,31211-6,Date of death
+LOINC,39233-2,"Screen test, other name CPHS"
+LOINC,39250-6,"Program participation, name CPHS"
+LOINC,39268-8,"Follow-up (referred to) provider /specialist, name CPHS"
+LOINC,39270-4,"Follow-up (referred to) provider /specialist, address CPHS"
+LOINC,39271-2,"Follow-up (referred to) provider /specialist, phone CPHS"
+LOINC,39275-3,"Follow-up (referred to) program, name CPHS"
+LOINC,39276-1,"Follow-up (referred to) program, address CPHS"
+LOINC,39277-9,"Follow-up (referred to) program, phone CPHS"
+LOINC,39281-1,"Responsible party, name CPHS"
+LOINC,39282-9,"Responsible party, home phone number CPHS"
+LOINC,39284-5,Patient escort information panel
+LOINC,39285-2,Escort Name
+LOINC,39286-0,Escort Relationship to patient
+LOINC,42077-8,Patient phone number
+LOINC,42106-5,Archive facility identification number Cancer
+LOINC,42127-1,Name of follow-up contact
+LOINC,44780-5,Organ donor ID number Narrative
+LOINC,44951-2,Physician NPI [Identifier]
+LOINC,44952-0,Surgeon primary NPI [Identifier] Provider
+LOINC,44953-8,Physician follow up NPI [Identifier]
+LOINC,44954-6,Physician managing NPI [Identifier]
+LOINC,44955-3,Archive facility identification number NPI Cancer
+LOINC,44956-1,Following registry NPI [Identifier] Cancer registry
+LOINC,44957-9,Institution referred to NPI Cancer registry
+LOINC,44958-7,Institution referred from NPI Cancer registry
+LOINC,44959-5,Hospital.reporting NPI [Identifier] Cancer
+LOINC,44960-3,Institution data source NPI Registry message
+LOINC,45250-8,HIV confirmation facility Address
+LOINC,45253-2,HIV treatment prior clinic transferred from Address
+LOINC,45255-7,HIV treatment clinic transferred to Address
+LOINC,45392-8,First (Given) name
+LOINC,45392-8,First name
+LOINC,45393-6,Middle initial
+LOINC,45394-4,Last (Family) name
+LOINC,45394-4,Last name
+LOINC,45395-1,Name suffix
+LOINC,45396-9,Social Security number [Identifier]
+LOINC,45397-7,Medicare or comparable number
+LOINC,45398-5,State provider number for Facility
+LOINC,45400-9,Medicaid number
+LOINC,45401-7,Postal code [Location]
+LOINC,45402-5,Language.primary
+LOINC,45403-3,Room number [Location]
+LOINC,45404-1,Marital status
+LOINC,45965-1,Name Set
+LOINC,45966-9,Social Security and Medicare numbers
+LOINC,46098-0,Sex
+LOINC,46106-1,Medical record number [Identifier]
+LOINC,46446-1,Record ID section Set NAACCR v.11
+LOINC,46463-6,Race or ethnicity
+LOINC,46496-6,Agency patient number [CMS Assessment]
+LOINC,46499-0,State of residence
+LOINC,46503-9,Deprecated Most recent inpatient discharge date [OASIS]
+LOINC,46582-3,"Discharge, transfer, death date [CMS Assessment]"
+LOINC,49089-6,Sonographer [Identifier]
+LOINC,52010-6,"Ambulance transport, Other patient name"
+LOINC,52011-4,"Ambulance transport, Other patient identifier"
+LOINC,52014-8,"Ambulance transport, Receiving individual accepting responsibility for patient Identifier"
+LOINC,52023-9,"Ambulance transport, Origination site name and address"
+LOINC,52026-2,"Ambulance transport, Destination site name and address"
+LOINC,52037-9,Member ID card copy
+LOINC,52069-2,Tax ID number - IRS form W9
+LOINC,52455-3,Admission date
+LOINC,52460-3,Patient Information
+LOINC,52461-1,Middle name
+LOINC,52462-9,Nickname
+LOINC,52463-7,Patient Identification Number or Provider Account Number
+LOINC,52525-3,Discharge date
+LOINC,52526-1,Attending physician name
+LOINC,52532-9,Provider state
+LOINC,52539-4,Prior postal code [Location]
+LOINC,52828-1,Federal provider name Facility
+LOINC,52831-5,Postal code [Location] Facility
+LOINC,53245-7,Driver license
+LOINC,53599-7,Deprecated ZIP code of prior primary residence
+LOINC,54123-5,Sex of Family member
+LOINC,54124-3,Birth date Family member
+LOINC,54125-0,Name
+LOINC,54136-7,Relationship to patient Family member
+LOINC,54138-3,Name Family member
+LOINC,54503-8,Legal name of patient
+LOINC,54504-6,Deprecated Social Security and Medicare numbers
+LOINC,54581-4,Facility provider numbers
+LOINC,54588-9,Interpreter needed
+LOINC,54704-2,How important it is to be able to use the phone in private while in this facility [CMS Assessment]
+LOINC,54899-0,Preferred language
+LOINC,55078-0,Federal employer tax ID Software vendor
+LOINC,55093-9,Vendor email address Software
+LOINC,55174-7,Patient identification data Set DEEDS
+LOINC,56051-6,Hispanic or Latino
+LOINC,56090-4,Hispanic origin
+LOINC,56794-1,Internal identifier
+LOINC,56795-8,Account number [Identifier]
+LOINC,56796-6,Emergency contact information panel
+LOINC,56797-4,Episode unique identifier
+LOINC,56799-0,Address
+LOINC,56802-2,Primary care provider [Identifier]
+LOINC,56803-0,ED attending physician [Identifier]
+LOINC,56804-8,ED nurse [Identifier] Provider
+LOINC,56805-5,ED accepting/admitting provider [Identifier]
+LOINC,56806-3,ED transferring provider [Identifier]
+LOINC,56807-1,ED transferring facility [Identifier]
+LOINC,56808-9,ED accepting or admitting facility [Identifier]
+LOINC,56809-7,ED tech [Identifier] Provider
+LOINC,56810-5,ED triage nurse Provider
+LOINC,56811-3,Primary care clinic or system [Identifier] Facility
+LOINC,56812-1,Provider who accepted patient in transfer to another facility [Identifier]
+LOINC,56855-0,Provider assuming ultimate responsibility for care for patient upon ED disposition [Identifier]
+LOINC,56856-8,Provider assuming care for patient upon ED disposition [Identifier]
+LOINC,56861-8,Emergency contact Name
+LOINC,56862-6,Emergency contact Address
+LOINC,56863-4,Emergency contact Phone number
+LOINC,56870-9,ED facility ID
+LOINC,60506-3,Record ID section Set NAACCR v.12
+LOINC,62324-9,Post-discharge provider name in Provider
+LOINC,62326-4,Post-discharge provider practice name
+LOINC,62327-2,Post-discharge provider practice address
+LOINC,62328-0,Post-discharge provider practice phone number
+LOINC,62329-8,Birth hospital facility ID
+LOINC,62330-6,Birth hospital facility name
+LOINC,62331-4,Birth hospital facility address
+LOINC,62332-2,Birth hospital facility phone number
+LOINC,62369-4,FISH probe name panel - Laboratory device
+LOINC,63052-5,PhenX - current address protocol 010801
+LOINC,63490-7,Deprecated Birthplace [PhenX]
+LOINC,63492-3,Father birthplace
+LOINC,63497-2,Current street number [Location] [PhenX]
+LOINC,63498-0,Current street name [Location] [PhenX]
+LOINC,63500-3,Current city [PhenX]
+LOINC,63502-9,Deprecated Current zip code [Location] [PhenX]
+LOINC,63517-7,Household member Relationship to patient
+LOINC,63726-4,From what date did you live in the residence
+LOINC,63727-2,To what date did you live in the residence
+LOINC,63728-0,"What is the residence address, street - crosstreets, city, state or landmark [PEG]"
+LOINC,63728-0,"What is the residence address, street - crosstreets, city, state or landmark [P"
+LOINC,63754-6,"What was the name of the company where you first or next worked, for 6 months or longer [NHANES]"
+LOINC,63781-9,Sex of Sibling
+LOINC,64290-0,Health insurance card
+LOINC,64297-5,Death certificate
+LOINC,64604-2,Technician [Identifier]
+LOINC,64866-7,In what city or town were you living when you were 18 [PhenX]
+LOINC,64867-5,To what city or town did you move to next [PhenX]
+LOINC,64869-1,City [PhenX]
+LOINC,65645-4,Reviewer initials
+LOINC,65647-0,City Facility
+LOINC,65649-6,Country Facility
+LOINC,65650-4,Email address Facility
+LOINC,65651-2,Phone number Facility
+LOINC,65652-0,Testing facility name
+LOINC,65833-6,Facility Address
+LOINC,65840-1,Principal result interpreter phone number
+LOINC,65884-9,Photographer ID
+LOINC,66276-7,Day name [PhenX]
+LOINC,66280-9,School Name
+LOINC,66302-1,Participant [Identifier]
+LOINC,66506-7,Image name Hand [PhenX]
+LOINC,66509-1,Image name Knee [PhenX]
+LOINC,66512-5,Image name Hip [PhenX]
+LOINC,66566-1,Image name Femur [PhenX]
+LOINC,66567-9,Image name Spine [PhenX]
+LOINC,66909-3,"Have you ever had an immediate family member, romantic partner, or very close friend who was murdered [LTVH]"
+LOINC,67101-6,Dermatologist name Provider
+LOINC,67116-4,"Was anyone murdered who was a parent, a brother, a sister, a very close friend, a boyfriend or girlfriend, or someone who lived with you [LTVH]"
+LOINC,67118-0,"Have you ever known someone who committed suicide or killed themselves; that is, a parent, a sister, a brother, a very close friend, a boyfriend or girlfriend, or someone who lived with you [LTVH]"
+LOINC,67153-7,Abstractor [Identifier]
+LOINC,67154-5,Nosologist [Identifier]
+LOINC,67288-1,Race or ethnicity [The Position Generator]
+LOINC,67414-3,Region of origin [PhenX]
+LOINC,67714-6,Diagnosing provider phone number
+LOINC,67878-9,Facility name Dialysis facility
+LOINC,67884-7,Tribal enrollment
+LOINC,68335-9,Self-dialysis training facility name Dialysis facility
+LOINC,68340-9,Attending physician phone number Provider
+LOINC,68491-0,Self-dialysis training physician name Provider
+LOINC,68997-6,City
+LOINC,68998-4,U.S. standard certificate of live birth - 2003 revision
+LOINC,69409-1,U.S. standard certificate of death - 2003 revision
+LOINC,69417-4,CMS certification number (CCN) for Facility
+LOINC,69434-9,Location of death name Facility
+LOINC,69435-6,Street address where death occurred if not facility
+LOINC,69454-7,Death date comment
+LOINC,69854-8,"Hispanic, latino-a, or spanish origin"
+LOINC,71230-7,Birth certificate
+LOINC,71509-4,Phone number extension Dialysis facility [ESRD]
+LOINC,71530-0,Business name Dialysis facility [ESRD]
+LOINC,71534-2,Phone number Dialysis facility [ESRD]
+LOINC,71591-2,Personnel Job title
+LOINC,71720-7,Personnel Address
+LOINC,71723-1,Personnel Cell phone number
+LOINC,71724-9,Personnel Home phone number
+LOINC,71725-6,Personnel Business phone number extension
+LOINC,71726-4,Personnel Business phone number
+LOINC,71727-2,Personnel Fax number
+LOINC,71728-0,Personnel Email address
+LOINC,71729-8,Personnel Nine-digit postal code
+LOINC,71730-6,Personnel Five-digit postal code
+LOINC,71731-4,Personnel State
+LOINC,71732-2,Personnel City
+LOINC,71733-0,Personnel Address 2
+LOINC,71734-8,Personnel Preferred mailing address
+LOINC,71735-5,Personnel Credentials
+LOINC,71736-3,Personnel Name prefix
+LOINC,71737-1,Personnel Name suffix
+LOINC,71738-9,Personnel Middle initial
+LOINC,71739-7,Personnel First (Given) name
+LOINC,71739-7,Personnel First name
+LOINC,71740-5,Personnel Last (Family) name
+LOINC,71740-5,Personnel Last name
+LOINC,71749-6,Personnel unique identifier
+LOINC,71750-4,Primary contact phone number extension Facility
+LOINC,71751-2,Primary contact phone number Facility
+LOINC,71752-0,Primary contact first name Facility
+LOINC,71753-8,Primary contact last name Facility
+LOINC,71766-0,Primary contact email Facility
+LOINC,72486-4,Laboratory director name in Provider
+LOINC,73766-8,Place where birth occurred [US Standard Certificate of Live Birth]
+LOINC,73774-2,Onset of labor [US Standard Certificate of Live Birth]
+LOINC,74024-1,Family member identifier
+LOINC,74025-8,Mother identifier
+LOINC,74026-6,Father identifier
+LOINC,74027-4,Family pedigree identifier
+LOINC,74221-3,Referring physician address
+LOINC,74287-4,Occupation [NTDS]
+LOINC,74288-2,Occupation industry [NTDS]
+LOINC,74499-5,Death pronouncer details
+LOINC,74547-1,Reporter email
+LOINC,74548-9,Reporter phone number
+LOINC,74710-5,Asset tag number
+LOINC,74711-3,Unique device identifier
+LOINC,74713-9,Other unique product identifier [Type]
+LOINC,74718-8,Type of device identifier [AHRQ]
+LOINC,74726-1,Other unique product identifier
+LOINC,74734-5,Death certifier details
+LOINC,75257-6,Mother's Marital status [CDC.CS]
+LOINC,75519-9,Encounter identifier
+LOINC,75549-6,Performing laboratory phone number
+LOINC,75783-1,Primary healthcare agent [Reported]
+LOINC,75784-9,First alternate healthcare agent [Reported]
+LOINC,75785-6,Second alternate healthcare agent [Reported]
+LOINC,76417-5,Provider First name
+LOINC,76418-3,Provider Middle Initial
+LOINC,76419-1,Provider Last name
+LOINC,76420-9,Provider Graduation year
+LOINC,76428-2,Visit charge in dollars
+LOINC,76429-0,Physical therapy Discharge date
+LOINC,76430-8,CPT units [#]
+LOINC,76432-4,Episode of care unique identifier
+LOINC,76435-7,Patient identifier
+LOINC,76437-3,Primary insurance
+LOINC,76438-1,Secondary insurance
+LOINC,76458-9,Patient Email address
+LOINC,76468-8,Organization NPI
+LOINC,76469-6,Organization name
+LOINC,76470-4,Organization federal tax ID
+LOINC,76471-2,Organization episode of care unique identifier
+LOINC,76516-4,Gestational age--at birth
+LOINC,76689-9,Sex assigned at birth
+LOINC,76695-6,Organization ZIP code
+LOINC,76696-4,Name [Identifier] Facility
+LOINC,76698-0,Patient identifier assigning authority
+LOINC,77967-8,Reporting county
+LOINC,77972-8,Earliest date reported to county
+LOINC,77981-9,Case outbreak name
+LOINC,77983-5,Country of usual residence [Location]
+LOINC,77987-6,County of exposure to illness [Location]
+LOINC,78239-1,Resource identifier [URI] for Clinical document
+LOINC,78746-5,Country of birth [Location]
+LOINC,78977-6,Cardiologist name Provider
+LOINC,79183-0,First name of Guardian or legally authorized representative
+LOINC,79184-8,Last name of Guardian or legally authorized representative
+LOINC,80393-2,Emergency management incident name
+LOINC,80427-8,Employer name [Identifier]
+LOINC,80428-6,Past employer name [Identifier]
+LOINC,80429-4,Employer address
+LOINC,80430-2,Past employer address
+LOINC,80431-0,Employer city
+LOINC,80432-8,Past employer city
+LOINC,80433-6,Employer state
+LOINC,80434-4,Past employer state
+LOINC,80435-1,Employer postal code [Location]
+LOINC,80436-9,Past employer postal code [Location]
+LOINC,80437-7,Employer country [Location]
+LOINC,80438-5,Past employer country [Location]
+LOINC,80571-3,Certificate
+LOINC,80616-6,Date and time pronounced dead [US Standard Certificate of Death]
+LOINC,80903-8,Birth certificate ID
+LOINC,80907-9,Death registration date
+LOINC,80909-5,Father's last name
+LOINC,81230-5,Referring physician phone number
+LOINC,81356-8,Death arrangements [Reported]
+LOINC,81369-1,First witness
+LOINC,81370-9,Second witness
+LOINC,81371-7,Third witness
+LOINC,81372-5,Notary
+LOINC,81373-3,Notary commission expiration date
+LOINC,81374-1,Notary seal ID
+LOINC,81681-9,Verified two types of patient identification
+LOINC,81886-4,Sex of Provider
+LOINC,81887-2,Provider race OMB.1997
+LOINC,81888-0,Provider ethnicity OMB.1997
+LOINC,81889-8,Physical therapy provider entry-level degree
+LOINC,81890-6,Physical therapy provider post-professional degree
+LOINC,81954-0,Date of death [Date]
+LOINC,81956-5,Date and time of death [TimeStamp]
+LOINC,82157-9,Birth date Provider
+LOINC,82158-7,Graduation state Provider
+LOINC,82589-3,Highest level of education
+LOINC,82590-1,Years of education [#] - Reported
+LOINC,82607-3,Clinical data [Date and Time Range]
+LOINC,82753-5,County of travel [Location]
+LOINC,82787-3,Participant identifier
+LOINC,85058-6,Imputed values for date of death
+LOINC,85059-4,Confidence in date of death
+LOINC,85078-4,Occupation industry [Type]
+LOINC,85104-8,Compensation and sector employment type
+LOINC,85431-5,Marital status of Contact
+LOINC,85432-3,Contact Relationship to patient
+LOINC,85657-5,Occupation industry CDC Census code
+LOINC,85658-3,Occupation [Type]
+LOINC,85659-1,Occupation CDC Census code
+LOINC,86263-1,Data items collected at inpatient facility admission or agency discharge only - discharge from agency - death at home [CMS Assessment]
+LOINC,86345-6,U.S. standard certificate of death - recommended 2003 revision set
+LOINC,86347-2,U.S. standard certificate of live birth - recommended 2003 revision set
+LOINC,86470-2,Most recent inpatient discharge date in the last 14 days [CMS Assessment]
+LOINC,8649-6,Hospital discharge date
+LOINC,8656-1,Hospital admission date
+LOINC,86637-6,Provider role
+LOINC,86639-2,Household size [#]
+LOINC,86807-5,Death administrative information Document
+LOINC,87219-2,Attesting individual first name Provider [CMS Assessment]
+LOINC,87220-0,Attesting individual last name Provider [CMS Assessment]
+LOINC,87226-7,Legal name of patient - first and last
+LOINC,87286-1,Birth attendant [Extended Identifier]
+LOINC,87287-9,Birth certifier [Extended Identifier]
+LOINC,87288-7,Date of birth certification
+LOINC,87289-5,Date of fetal death registration
+LOINC,87290-3,Date of Social Security Number request
+LOINC,87293-7,Relationship to patient's mother
+LOINC,87294-5,Guardian or legally authorized representative signature for Social Security Number request
+LOINC,87297-8,Birth registration date
+LOINC,87302-6,Paternity acknowledgment form signed Father
+LOINC,87520-3,Coverage type
+LOINC,87532-8,Most important mental health issue to address
+LOINC,87720-9,Provider Postal code
+LOINC,87721-7,County of residence [Location]
+LOINC,88080-7,Multiple birth set identifier
+LOINC,88081-5,Title of person completing the form Provider
+LOINC,88088-0,EMS transport destination name [Identifier] of Facility
+LOINC,88090-6,Physician specialty
+LOINC,88370-2,"Outcome and assessment information set (OASIS) form - version D, D1 - Discharged from agency - death at home [CMS Assessment]"
+LOINC,88505-3,OASIS D - Data items collected at inpatient facility admission or agency discharge only - discharge from agency - death at home [CMS Assessment]
+LOINC,89010-3,EMS physician name
+LOINC,89011-1,EMS assistant name
+LOINC,89057-4,Permission to receive text messages
+LOINC,89058-2,Contact email address
+LOINC,89059-0,Secondary contact name
+LOINC,89060-8,Contact Phone number
+LOINC,89061-6,Insurance group number [Identifier]
+LOINC,89088-9,WIC services recipient
+LOINC,89089-7,Immigration status
+LOINC,89175-4,Billing information panel
+LOINC,89178-8,Patient's Financial responsibility amount [#]
+LOINC,89202-6,County location of Facility
+LOINC,89265-3,"Procedures, Services, or Supplies modifier"
+LOINC,89266-1,"Procedures, Services, or Supplies code"
+LOINC,89550-8,Middle name Provider
+LOINC,89601-9,Proof of encounter certificate
+LOINC,89911-2,Emergency management plan name
+LOINC,89918-7,Emergency management plan approver name
+LOINC,90052-2,Organization Address
+LOINC,90053-0,Organization Phone number
+LOINC,90054-8,Organization Email address
+LOINC,90055-5,Organization information panel
+LOINC,90057-1,Name of Contact at Organization
+LOINC,90058-9,Person responsible for generating report
+LOINC,90059-7,Task description Narrative
+LOINC,90060-5,Date task due
+LOINC,90063-9,Date and time task assigned
+LOINC,90093-6,Personnel name
+LOINC,90097-7,Email address of person responsible for generating report
+LOINC,90108-2,Incident commander name
+LOINC,90109-0,Incident commander qualification
+LOINC,90110-8,Incident commander phone number
+LOINC,90111-6,Incident commander email address
+LOINC,90113-2,Chief of staff name
+LOINC,90114-0,Chief of staff phone number
+LOINC,90115-7,Chief of staff email address
+LOINC,90118-1,Date and time of scheduled task
+LOINC,90119-9,Location of task
+LOINC,90123-1,Response team leader name
+LOINC,90124-9,Response team leader title
+LOINC,90125-6,Response team member name
+LOINC,90126-4,Response team member title
+LOINC,90852-5,Patient Fax number
+LOINC,90895-4,Task identifier
+LOINC,90896-2,Personnel Person assigned to task
+LOINC,90897-0,Percent of task completed
+LOINC,90946-5,Date of laboratory phone call to provider to communicate test result
+LOINC,91002-6,Personnel Job position
+LOINC,91003-4,Personnel contact information panel
+LOINC,91004-2,Deprecated Email address Personnel
+LOINC,91005-9,Organization assigned to task
+LOINC,91025-7,Lead department or agency name Organization
+LOINC,91098-4,Countermeasure name
+LOINC,91387-1,Has valid driver license
+LOINC,91562-9,Performing laboratory identifier Facility
+LOINC,91570-2,Employment net income in past 30 days
+LOINC,91583-5,Date and time of public health emergency
+LOINC,91585-0,Reliability of information source
+LOINC,91587-6,Accuracy of information from source
+LOINC,91588-4,Latitude Event
+LOINC,91589-2,Longitude Event
+LOINC,91690-8,Testing services available at Facility
+LOINC,91691-6,Personnel Age
+LOINC,91692-4,Sex of Personnel
+LOINC,91693-2,Personnel specialty
+LOINC,91694-0,Highest level of education of Personnel
+LOINC,91695-7,Personnel Qualification
+LOINC,91696-5,Response team name
+LOINC,91697-3,Volunteer Name
+LOINC,91698-1,Volunteer age
+LOINC,91699-9,Sex of Volunteer
+LOINC,91700-5,Specialty Volunteer
+LOINC,91702-1,Shelter name [Identifier] Facility
+LOINC,91703-9,Shelter address Facility
+LOINC,91704-7,Primary contact information panel Facility
+LOINC,91714-6,Date of interview
+LOINC,91879-7,Reporter Information
+LOINC,91880-5,Date and time of risk assessment meeting
+LOINC,91881-3,Location of meeting
+LOINC,91886-2,Document name [Identifier]
+LOINC,91887-0,Agency type
+LOINC,91888-8,Qualification Volunteer
+LOINC,91889-6,Volunteer contact information panel
+LOINC,91891-2,Facility Bed type
+LOINC,91892-0,Address Volunteer
+LOINC,91893-8,Email address Volunteer
+LOINC,91894-6,Volunteer Phone number
+LOINC,91904-3,Personnel Response team member qualification
+LOINC,91905-0,Personnel Response team leader information panel
+LOINC,91906-8,Personnel Response team leader qualification
+LOINC,92009-0,Personnel Birth date
+LOINC,92010-8,Jurisdiction fetal death report Document
+LOINC,92013-2,Father's administrative information
+LOINC,92019-9,Provider supplied mother's fetal death report Document
+LOINC,92021-5,Provider supplied facility fetal death report Document
+LOINC,92026-4,Personnel Supervisor contact information panel
+LOINC,92028-0,Personnel Supervisor name
+LOINC,92029-8,Personnel Supervisor email address
+LOINC,92030-6,Personnel Supervisor address
+LOINC,92031-4,Personnel Supervisor title
+LOINC,92032-2,Supervisor phone number
+LOINC,92033-0,Purchase cost [#] Supply
+LOINC,92035-5,Personnel Job experience
+LOINC,92045-4,Name of Donor
+LOINC,92046-2,Donor contact information panel
+LOINC,92047-0,Donated item by Donor
+LOINC,92048-8,Donated item [#] Donor
+LOINC,92191-6,Staff [#] Agency
+LOINC,92193-2,Bed type [#] Facility
+LOINC,92194-0,Bed category Facility
+LOINC,92195-7,Bed category [#] Facility
+LOINC,92196-5,Supply owner [Identifier] Supply
+LOINC,92197-3,Public health emergency budget [#] Reporting Period
+LOINC,92198-1,Public health emergency budget source
+LOINC,92199-9,Public health emergency budget breakdown details Reporting Period Document
+LOINC,92200-5,Public health emergency budget implementing unit name [Identifier]
+LOINC,92201-3,Purchase activity Supply
+LOINC,92202-1,Recipient of supply [Identifier] Supply
+LOINC,92203-9,Bed category panel Facility
+LOINC,92204-7,Bed type panel Facility
+LOINC,92573-5,Resident of region that is endemic for the disease of interest
+LOINC,92634-5,Address type
+LOINC,93186-5,Preferred language and interpreter need
+LOINC,93449-7,Appointment of legal guardian
+LOINC,94130-2,Body disposition facility name [Identifier]
+LOINC,94131-0,Body disposition facility address
+LOINC,94132-8,Funeral facility name [Identifier]
+LOINC,94133-6,Funeral facility address
+LOINC,94134-4,Personnel Funeral service licensee or other agent assuming custody of the body of the deceased
+LOINC,94135-1,Funeral service licensee identifier Facility
+LOINC,94545-1,Household contacts [#]
+LOINC,94649-1,Health department identifier
+LOINC,94650-9,Contact identifier Contact
+LOINC,94655-8,Identifier and Assigning authority panel
+LOINC,94657-4,Contact case identifier
+LOINC,94659-0,Case identifier
+LOINC,94664-0,Anticipated discharge date
+LOINC,95364-6,Personnel Organization
+LOINC,95367-9,Intensive care unit (ICU) admission date
+LOINC,95368-7,Intensive care unit (ICU) discharge date
+LOINC,95369-5,Affiliated with a tribe
+LOINC,95370-3,Tribal affiliation
+LOINC,95371-1,Enrolled in a tribe
+LOINC,95372-9,Workplace setting
+LOINC,95727-4,Contact Name
+LOINC,95728-2,Contact Address
+LOINC,95729-0,Relationship to decedent Contact
+LOINC,95730-8,Surviving spouse name
+LOINC,95731-6,Mother's Maiden name
+LOINC,96676-2,Employer phone number
+LOINC,96677-0,School Address
+LOINC,96678-8,School code [ID]
+LOINC,96679-6,School Identifier assigning authority
+LOINC,LP116194-4,Health insurance card
+LOINC,LP116197-7,Death certificate
+LOINC,LP149090-5,Birth certificate
+LOINC,LP149091-3,Certificate
+LOINC,LP230533-4,State of travel
+LOINC,LP267920-9,Proof of encounter certificate
+LOINC,LP36348-8,Patient information
+LOINC,LP416785-6,Certificate &#x7C; {Setting} &#x7C; Document ontology
+LOINC,LP416786-4,Birth certificate &#x7C; {Setting} &#x7C; Document ontology
+LOINC,LP416787-2,Death certificate | {Setting} | Document ontology
+LOINC,LP416787-2,Death certificate &#x7C; {Setting} &#x7C; Document ontology
+LOINC,LP416802-9,Driver license &#x7C; {Setting} &#x7C; Document ontology
+LOINC,LP416803-7,Health insurance card &#x7C; {Setting} &#x7C; Document ontology
+LOINC,LP418057-8,City of travel
+LOINC,LP418079-2,State of known exposure
+LOINC,LP418851-4,Intensive care unit (ICU) admission date
+LOINC,LP418852-2,Intensive care unit (ICU) discharge date
+LOINC,LP419181-5,City of travel &#x7C; Patient &#x7C; History
+LOINC,LP419182-3,State of travel &#x7C; Patient &#x7C; History
+LOINC,LP419189-8,State of known exposure &#x7C; Patient &#x7C; History
+LOINC,LP419194-8,Intensive care unit (ICU) admission date &#x7C; Patient &#x7C; History
+LOINC,LP419195-5,Intensive care unit (ICU) discharge date &#x7C; Patient &#x7C; History
+LOINC,LP57353-2,Summary of death note
+LOINC,LP74012-3,Driver license
